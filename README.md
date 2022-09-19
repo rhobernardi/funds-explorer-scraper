@@ -9,4 +9,6 @@ $ ./install.sh
 ```
 
 ## Run
-`$ fiis --get-all`
+```bash
+$ fiis --get-all
+```
